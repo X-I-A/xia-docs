@@ -12,3 +12,4 @@ Overview
    * Micro-services: No complex dependencies, light-weight components
    * Server-less: Whole solution could be deployed into cloud-based server-less infrastructure
 
+

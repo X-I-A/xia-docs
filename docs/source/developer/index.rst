@@ -1,5 +1,7 @@
 Developer Guide
 ===============
 
-Basic Units
------------
+.. toctree::
+   :maxdepth: 1
+
+   spec/index

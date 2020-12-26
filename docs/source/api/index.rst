@@ -5,4 +5,4 @@ API Guide
    :maxdepth: 1
 
    xialib
-   xialib.adaptors.rst
+   adaptors/index

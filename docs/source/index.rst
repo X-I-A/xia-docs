@@ -7,8 +7,8 @@ X-I-A Data Solution User documentation
 :doc:`tutorial/index`
    A quick tutorial about the solution's overview, architecture, quick start guide and some simple examples
 
-
-
+:doc:`user/index`
+   How to use the data solution
 
 .. toctree::
    :maxdepth: 1
@@ -16,6 +16,7 @@ X-I-A Data Solution User documentation
    :hidden:
 
    tutorial/index
+   installation/index
    user/index
    api/index
    developer/index
