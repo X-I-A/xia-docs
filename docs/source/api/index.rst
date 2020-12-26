@@ -5,4 +5,6 @@ API Guide
    :maxdepth: 1
 
    xialib
-   adaptors/index
+   xeed
+   insight
+   agent
