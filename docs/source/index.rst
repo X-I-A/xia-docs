@@ -1,15 +1,17 @@
-.. xia documentation master file, created by
-   sphinx-quickstart on Sat Dec 26 15:45:56 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to xia's documentation!
-===============================
+Welcome to X-I-A's documentation!
+=================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   overview
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Module-Level:
+
+   xialib/xialib
 
 
 Indices and tables
