@@ -1,17 +1,25 @@
-Welcome to X-I-A's documentation!
-=================================
+======================================
+X-I-A Data Solution User documentation
+======================================
+
+**X-I-A** is a full-scope data solution which provides the functions of data-hub, data-lake and data-catalog
+
+:doc:`tutorial/index`
+   A quick tutorial about the solution's overview, architecture, quick start guide and some simple examples
+
+
+
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :numbered:
+   :hidden:
 
-   overview
+   tutorial/index
+   user/index
+   api/index
+   developer/index
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Module-Level:
-
-   xialib/xialib
 
 
 Indices and tables
