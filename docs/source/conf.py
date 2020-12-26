@@ -27,7 +27,7 @@ author = 'soral'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-release = '0.0.1'
+release = '0.1.0'
 
 extensions = [
     'sphinx.ext.autodoc',

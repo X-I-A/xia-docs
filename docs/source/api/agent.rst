@@ -6,3 +6,4 @@ Agent Service Bundle
 
    agent/agent
    agent/pusher
+   errors/pyagent.errors

@@ -6,3 +6,4 @@ Xeed Service Bundle
 
    xeed/xeed
    xeed/relayer
+   errors/pyxeed.errors

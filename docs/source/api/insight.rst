@@ -10,3 +10,4 @@ Insight Service Bundle
    insight/packager
    insight/loader
    insight/merger
+   errors/pyinsight.errors

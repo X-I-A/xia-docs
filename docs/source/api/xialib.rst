@@ -14,3 +14,12 @@ To install it, simply run
    :hidden:
 
    adaptors/index
+   archivers/index
+   decoders/index
+   depositors/index
+   formatters/index
+   publishers/index
+   storers/index
+   subscribers/index
+   translators/index
+   errors/xialib.errors
